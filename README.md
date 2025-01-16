@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snrredoy&show_icons=true&locale=en&layout=compact" alt="snrredoy" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snrredoy&show_icons=true&locale=en" alt="snrredoy" /></p> <br> <br> <br> <br> <br> <br> <br>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snrredoy&" alt="snrredoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snrredoy&" alt="snrredoy" /></p> <br>
 
 
 ## “Technology is best when it brings people together.” — Matt Mullenweg
