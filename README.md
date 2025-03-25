@@ -9,7 +9,6 @@
 <a href="https://www.linkedin.com/in/shahriya-naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shahriya-naeem" height="30" width="40" /></a>
 </p>
 <br>
-# 💻 Tech Stack:
 
 # 💻 Tech Stack:
 
