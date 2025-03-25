@@ -19,7 +19,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=snrredoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
   
 ## “Technology is best when it brings people together.” — Matt Mullenweg
 
