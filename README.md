@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snrredoy&label=Profile%20views&color=0e75b6&style=flat" alt="snrredoy" /> </p><br>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shahriya-naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shahriya-naeem" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZqHDmt2b) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/snrredoy3) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snr_redoy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriya-naeem)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:snrredoy3@gmail.com)
 <br>
  
 # 💻 Tech Stack:
@@ -39,9 +41,7 @@
 [![](https://visitcount.itsvg.in/api?id=snrredoy&icon=0&color=0)](https://visitcount.itsvg.in)
  
   
-## “Technology is best when it brings people together.” — Matt Mullenweg
-
-###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://raw.githubusercontent.com/snrredoy/snrredoy/output/snake.svg" alt="Snake animation" />
 
