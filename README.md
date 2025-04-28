@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shahriya Naeem</h1> <br>
-<h3 align="left">A passionate Jr. Python developer.</h3><br>
+<h3 align="left">Jr. Python developer.</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snrredoy&label=Profile%20views&color=0e75b6&style=flat" alt="snrredoy" /> </p><br>
 
