@@ -1,5 +1,19 @@
 <h1 align="left">Hi 👋, I'm Shahriya Naeem</h1> <br>
-<h3 align="left">Jr. Python developer.🫣</h3><br>
+
+**💻 Junior Python Developer | 🌱 Django Enthusiast | 🛠️ Backend Learner**
+
+🚀 I'm a junior developer passionate about clean code, RESTful APIs, and solving real-world problems with Python and Django.
+
+🧠 Currently learning: ⚙️ Advanced Django, 🐳 Docker, and 🧪 API testing  
+💼 Looking for: 👨‍💻  Junior Backend Developer role  
+💬 Ask me about: 🐍 Django, 🐘 PostgreSQL, 🧾 SQL, or anything backend  
+🎯 Goal: Become a confident 💡 full-stack developer  
+📫 Reach me at: [📩 snrredoy3@gmail.com](mailto:snrredoy3@gmail.com)
+
+- 🎓 BSc in CSE
+- 🛠️ Tools: Django, DRF, Postgres, Tailwind
+- 🌐 Visit my [LinkedIn](https://linkedin.com/in/shahriya-naeem)
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snrredoy&label=Profile%20views&color=0e75b6&style=flat" alt="snrredoy" /> </p><br>
 
@@ -32,10 +46,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
- 
-![](https://github-readme-stats.vercel.app/api?username=snrredoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=snrredoy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=snrredoy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snrredoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrredoy&hide=html,css&theme=dark&hide_border=false)](https://github.com/snrredoy)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=snrredoy&icon=0&color=0)](https://visitcount.itsvg.in)
