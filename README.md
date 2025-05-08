@@ -17,7 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snrredoy&label=Profile%20views&color=0e75b6&style=flat" alt="snrredoy" /> </p><br>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZqHDmt2b) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/snrredoy3) 
