@@ -2,7 +2,7 @@
 
 **💻 Junior Python Developer | 🌱 Django Enthusiast | 🛠️ Backend Learner**
 
-🚀 I'm a junior developer passionate about clean code, RESTful APIs, and solving real-world problems with Python and Django.
+🚀 I'm a junior developer passionate about clean code, RESTful APIs, and solving real-world problems with Python, Django, and Django REST Framework.
 
 🧠 Currently learning: ⚙️ Advanced Django,⚡ FastAPI, 🐳 Docker, and 🧪 API testing  
 💼 Looking for: 👨‍💻  Junior Backend Developer role  
