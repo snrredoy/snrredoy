@@ -16,7 +16,7 @@
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="snrredoy" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snrredoy&label=Profile%20views&color=0e75b6&style=flat" alt="snrredoy" /> </p><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZqHDmt2b) 
@@ -47,7 +47,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=snrredoy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+[](https://github-readme-stats.vercel.app/api?username=snrredoy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=snrredoy&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrredoy&hide=html,css&theme=dark&hide_border=false)](https://github.com/snrredoy)
 
