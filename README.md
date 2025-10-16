@@ -8,7 +8,7 @@
 💼 Looking for: 👨‍💻  Junior Backend Developer role  
 💬 Ask me about: 🐍 Django, 🐘 PostgreSQL, 🧾 SQL, or anything backend  
 🎯 Goal: Become a confident 💡 full-stack developer  
-📫 Reach me at: [📩 snrredoy3@gmail.com](mailto:snrredoy3@gmail.com)
+📫 Reach me at: [📩 snrredoy3@gmail.com](mailto:shahriyanaeem@gmail.com)
 
 - 🎓 BSc in CSE
 - 🛠️ Tools: Django, DRF, Postgres, Tailwind
