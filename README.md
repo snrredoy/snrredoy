@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shahriya Naeem</h1> <br>
+<!-- <h1 align="left">Hi 👋, I'm Shahriya Naeem</h1> <br>
 
 **💻 Junior Python Developer | 🌱 Django Enthusiast | 🛠️ Backend Learner**
 
@@ -7,11 +7,29 @@
 🧠 Currently learning: ⚙️ Advanced Django,⚡ FastAPI, Docker and 🧪 API testing  
 💼 Looking for: 👨‍💻  Junior Backend Developer role  
 💬 Ask me about: 🐍 Django, 🐘 PostgreSQL, 🧾 SQL, or anything backend  
-🎯 Goal: Become a confident 💡 full-stack developer  
+🎯 Goal: Become a confident 💡 full-stack developer   -->
+
+
+**Hi 👋, I'm Shahriya Naeem**
+
+**💻 Junior Software Engineer | Python | Backend Development | Data Engineering**
+
+I'm a Software Engineer with experience in Python backend development, REST API engineering, and database operations. Currently, I'm working with Python, SQL, ETL pipelines, and Apache Spark, exploring data engineering and analytics.
+
+I enjoy building practical solutions, automating repetitive tasks, working with data, and continuously learning new technologies.
+
+🚀 What I'm Working On  
+
+💼 Currently: Junior Software Engineer at W3 Engineers Ltd.  
+🐍 Working with Python, SQL, ETL, and Apache Spark.  
+📊 Exploring data analytics and BI tools like Amazon QuickSight and Apache Superset.  
+⚙️ Building Python-based data cleaning, validation, and automation solutions.  
+🔧 Previous experience with Django, Django REST Framework, FastAPI, and PostgreSQL.  
+🌱 Continuously learning Data Engineering and modern data technologies.   
 📫 Reach me at: [📩 shahriyanaeem@gmail.com](mailto:shahriyanaeem@gmail.com)
 
 - 🎓 BSc in CSE
-- 🛠️ Tools: Django, DRF, Postgres, Tailwind
+- 🛠️ Tools: Django, DRF, Postgres, ETL, SQL
 - 🌐 Visit my [LinkedIn](https://linkedin.com/in/shahriya-naeem)
 <br>
 
