@@ -10,7 +10,7 @@
 🎯 Goal: Become a confident 💡 full-stack developer   -->
 
 
-**Hi 👋, I'm Shahriya Naeem**
+# **Hi 👋, I'm Shahriya Naeem**
 
 **💻 Junior Software Engineer | Python | Backend Development | Data Engineering**
 
